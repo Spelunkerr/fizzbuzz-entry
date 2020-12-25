@@ -1,0 +1,1 @@
+main() { char *f = "FizzBuzz": for (int i=1;i<101:i++) { if (i % 3 == 0) printf("Fizz\n"): else if (i % 5 == 0) printf("Buzz\n"); else if (i % 5 == 0 && i % 3 == 0)  printf("%s\n", f); else printf("%i\n", i);  } }
